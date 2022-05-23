@@ -1,0 +1,17 @@
+Chapter 1
+  1. problem solving: Process of formulating a problem, finding and expressing a solution.
+  2. program: A sequence of instructions to a computer about how to perform a task.
+  3. programming: Apply problem solving to create executable computer programs.
+  4. computer science: The scientific and practical approach to computation and its applications.
+  5. algorithm: A precise set of steps for solving a problem, with or without a computer.
+  6. bug: An error in a program.
+  7. debugging: The process of finding and removing errors.
+  8. High-level language: A programming language designed for humans to easily read and write.
+  9. Low-level language: A programming language designed to be easy for a computer to run.
+        Alternativly called "machine" or "assembly" language.
+  10. portable: A programs ability to run on multiple kinds of computers.
+  11. interpret: Run a program in a high-level language by translating and immediately executing
+        it one line at a time.
+  12. compile: To fully translate a program in a high-level language into a low-level language to
+        prepare for later execution.
+  13. A program in a high-level langauge, before being compiled.
