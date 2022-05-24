@@ -9,3 +9,7 @@ Force delete a local branch (that contains un-pushed commits)
 
 Delete a remote branch
     git push origin --delete <remote-branch-name>
+
+Discard all local changes (revert back to last commit). Both may be required.
+    1. git reset --hard
+    2. git clean -fxd
