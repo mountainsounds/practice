@@ -14,4 +14,16 @@ Chapter 1
         it one line at a time.
   12. compile: To fully translate a program in a high-level language into a low-level language to
         prepare for later execution.
-  13. A program in a high-level langauge, before being compiled.
+  13. source code: A program in a high-level langauge, before being compiled.
+  14. object code: The compiler's output, after translating the program.
+  15. executable: Object code that is ready to run on specific hardware.
+  16. byte code: A special kind of object code used for Java programs. Similar to a low level language,
+        but portable like a high-level language.
+  17. statement: Program piece that specifies one step of an algorithm.
+  18. print statement: A statement that causes output to be displayed on the screen.
+  19. method: A named sequence of statements.
+  20. A collection of related methods.
+  21. comment: Program peice that contains information about the program, but has no effect when program runs.
+  22. string: A sequence of characters; the primary data type for text.
+  23. newline: A special character signifying the end of a line of text.
+  24. escape sequence: code sequence representing a special character when used inside a string.
