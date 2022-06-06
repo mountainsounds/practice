@@ -1,0 +1,15 @@
+***** Reducer *********
+A function that takes two arguments:
+    1. the app's state of the world
+    2. Something that happened
+
+***** Actions *********
+The one requirement is that every action declares a type. 
+You can include other things, commonly:
+    1. payload (either a single value or an object)
+    2. meta: other info about the action
+     3. error
+     
+***** Action Creator *********
+A very fancy word for a function. It helps remove remove the repeated
+boilerplate for creating actions. Saves extra  typing and typo risk. 
