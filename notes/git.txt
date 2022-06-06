@@ -1,3 +1,4 @@
+*********** Commands **************************
 Create and switch to a new branch
     git checkout -b <somebranch-name>
 
@@ -13,3 +14,11 @@ Delete a remote branch
 Discard all local changes (revert back to last commit). Both may be required.
     1. git reset --hard
     2. git clean -fxd
+
+
+*********** STYLE **************************
+Use imperative mood
+    Ex. add Adyen payment vs added Adyen payment
+
+*********** RESOURCES **************************
+    1. Style guide: https://cbea.ms/git-commit/#separate
