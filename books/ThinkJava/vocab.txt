@@ -27,3 +27,27 @@ Chapter 1
   22. string: A sequence of characters; the primary data type for text.
   23. newline: A special character signifying the end of a line of text.
   24. escape sequence: code sequence representing a special character when used inside a string.
+
+  Chapter 2
+    1. variable: a named storage location for values. All variables have a type, which is declared when it is created.
+    2. value: data that can be stored in a variable. Every value belongs to a type.
+    3. declaration: a statement that creates a new variable and specifies its type.
+    4. type: A set of values (mathematics). A variable type determines its allowed values.
+    5. keyword: A reserved word used by the compiler to analyze programs.
+    6. assignment: A statement that gives a value to a variable.
+    7. initialize: To assign a variable for the first time.
+    8. state: the variables in a program and their current values.
+    9. state diagram: a graphical representation of a programs state at a point in time.
+    10. operator: a symbol that represents a computation.
+    11. operand: one of the values on which an operator operates. Most operators require two operands.
+    12. expression: A combination of variables, operators, and values that represents a single value.
+    13. floating point: a data type that represents numbers with an integer and fractional part. Java's default floating type is double.
+    14. rounding error: the difference between the number we want to represent and the nearest floating-point number.
+    15. concatenate: to join two values, often strings, end-to-end.
+    16. order of operations: the rules that determine in what order operations are evaluated.
+    17. composition: the ability to combine simple expressions and statements into compound ones.
+    18. syntax: A program's structure -- its arrangement of words and symbols.
+    19. compile-time-error: an error in the source code that makes it impossible to compile (aka: syntax error);
+    20. parse: to analyze the programs structure -- the compiler does this first.
+    21. run-time-error: A program error that makes it impossible to run to completion (aka: exception).
+    22. logic error: a program error that makes it do something other than what the programmer intended.
